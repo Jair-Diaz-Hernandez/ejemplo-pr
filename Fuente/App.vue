@@ -82,7 +82,7 @@
       message: 'Hola Profesor.',
       items: [
         {name: 'Servicios', amount: 200, paid: false},
-        {name: 'Hosting de Ricardo', amount: 90, paid: true },
+        {name: 'Hosting de Jair', amount: 90, paid: true },
       ],
     }),
 
